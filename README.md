@@ -1,4 +1,4 @@
-# Integrating Heterogeneous Graphs using Graph Transformer Encoder for Solving Math Word Problems
+# Heterogeneous Graphs using Graph Transformer Encoder 
 
 This repository is the implementation of Integrating Heterogeneous Graphs using Graph Transformer Encoder for Solving Math Word Problems.
 
