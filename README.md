@@ -12,7 +12,7 @@ Experimental results show that our method produces competitive results compared 
 Moreover, we discuss that integrating different types of textual characteristics may improve the quality of mathematical logic inference from natural language sentences.
 
 
-### Requirements
+## Requirements
 - Ubuntu 18.04 LTS
 - Python 3.6.9
 - Pytorch 1.7.1
