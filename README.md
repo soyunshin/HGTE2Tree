@@ -21,7 +21,8 @@ Moreover, we discuss that integrating different types of textual characteristics
 - nltk 3.6.6
 - gensim 3.8.0
 
+<br>
 
 ## Acknowledge
-Some of the codes are built upon [Graph-to-Tree](https://github.com/2003pro/Graph2Tree) and [SVAMP](https://github.com/arkilpatel/SVAMP).
+Some of the codes are built upon [Graph-to-Tree](https://github.com/2003pro/Graph2Tree) and [SVAMP](https://github.com/arkilpatel/SVAMP).<br>
 You are encouraged to submit issues and contribute pull requests.
