@@ -13,7 +13,6 @@ Moreover, we discuss that integrating different types of textual characteristics
 
 
 ### Requirements
----
 - Ubuntu 18.04 LTS
 - Python 3.6.9
 - Pytorch 1.7.1
