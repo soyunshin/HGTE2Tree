@@ -10,3 +10,13 @@ In this work, we introduces a novel method that integrates structural informatio
 To provide various types of structural information in a uniform way, we propose a graph transformer encoder to integrate heterogeneous graphs of various input representations. 
 Experimental results show that our method produces competitive results compared to the baselines. 
 Moreover, we discuss that integrating different types of textual characteristics may improve the quality of mathematical logic inference from natural language sentences.
+
+
+### Requirements
+---
+- Ubuntu 18.04 LTS
+- Python 3.6.9
+- Pytorch 1.7.1
+- transformers 3.3.1
+- nltk 3.6.6
+- gensim 3.8.0
