@@ -11,6 +11,7 @@ To provide various types of structural information in a uniform way, we propose 
 Experimental results show that our method produces competitive results compared to the baselines. 
 Moreover, we discuss that integrating different types of textual characteristics may improve the quality of mathematical logic inference from natural language sentences.
 
+<br>
 
 ## Requirements
 - Ubuntu 18.04 LTS
